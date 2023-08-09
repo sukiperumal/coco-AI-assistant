@@ -1,5 +1,5 @@
 # coco-virtual-voice-assistant
-                                                                                                                                                    January 2022 Version
+
 Welcome to 'Coco': A user-friendly Virtual Voice Assistant that is designed to provide a conversational and interactive experience, leveraging the power of artificial intelligence to assist users with various tasks thereby providing a more enjoyable way to navigate the web.
 
 Developed during covid when the world witnessed how quickly the pandemic can devolve and spread. It is equipped with a pandemic simulator, to predict the spread of COVID after taking several parameters as input. This can help us visualise the spread of covid and be better prepared for the future. Along with a real-time update about the number of new cases, deaths, and the recovered cases of one of the covid-19 waves according to  within a state updated regularly. 
@@ -34,3 +34,4 @@ Speech Output Customization: Customize the assistant's speech output, such as vo
 User Interface Enhancement: Develop a graphical user interface (GUI) or web interface to complement the voice interactions and provide a visual representation of the assistant's responses.
 
 Thank you for using Coco - Virtual Voice Assistant! We hope it proves to be a helpful and engaging tool for you.
+Project Creation - January 2022
