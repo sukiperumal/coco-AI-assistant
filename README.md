@@ -34,4 +34,4 @@ Speech Output Customization: Customize the assistant's speech output, such as vo
 User Interface Enhancement: Develop a graphical user interface (GUI) or web interface to complement the voice interactions and provide a visual representation of the assistant's responses.
 
 Thank you for using Coco - Virtual Voice Assistant! We hope it proves to be a helpful and engaging tool for you.
-Project Creation - January 2022
+Project Timeline : January 2022 - Present
