@@ -1,6 +1,6 @@
 # coco-virtual-voice-assistant
 
-Made by Sujay
+Made by Suki only, not Sujay
 
 Welcome to 'Coco' - A user-friendly Virtual Voice Assistant that is designed to provide a conversational and interactive experience, leveraging the power of artificial intelligence to assist users with various tasks thereby providing a more enjoyable way to navigate the web.
 
