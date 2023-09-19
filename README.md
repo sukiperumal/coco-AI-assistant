@@ -1,5 +1,7 @@
 # coco-virtual-voice-assistant
 
+Made by Suki
+
 Welcome to 'Coco' - A user-friendly Virtual Voice Assistant that is designed to provide a conversational and interactive experience, leveraging the power of artificial intelligence to assist users with various tasks thereby providing a more enjoyable way to navigate the web.
 
 Developed during covid when the world witnessed how quickly the pandemic can devolve and spread. It is equipped with a pandemic simulator, to predict the spread of COVID after taking several parameters as input. This can help us visualise the spread of covid and be better prepared for the future. Along with a real-time update about the number of new cases, deaths, and the recovered cases of one of the covid-19 waves according to  within a state updated regularly. 
