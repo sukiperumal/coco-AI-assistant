@@ -1,4 +1,4 @@
-﻿System Requirements Tabular Report,
+﻿Report Section,
 Chunk Information,
 Property,Value
 Chunk Size,5 KiB
@@ -29,7 +29,7 @@ Property,Value
 Sets per User per Month,100
 Total Reads per Month per User,60k rows
 Number of Users,200
-Total Reads per Month   ,12M rows
+Total Reads per Month,12M rows
 
 Data Entry Sizes,
 Property,Value
